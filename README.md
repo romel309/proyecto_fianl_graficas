@@ -1,6 +1,8 @@
-# proyecto_fianl_graficas
+# proyecto_final_graficas
 
-#Controls
+# Controls
 W,A,S,D = TO MOVE
-SPACE = ENTER
+## Turbo
+SPACE = Turbo
+## Start the game
 Q = to start the game
